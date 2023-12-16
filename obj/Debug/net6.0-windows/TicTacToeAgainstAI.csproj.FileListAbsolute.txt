@@ -1,0 +1,16 @@
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\bin\Debug\net6.0-windows\TicTacToeAgainstAI.exe
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\bin\Debug\net6.0-windows\TicTacToeAgainstAI.deps.json
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\bin\Debug\net6.0-windows\TicTacToeAgainstAI.runtimeconfig.json
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\bin\Debug\net6.0-windows\TicTacToeAgainstAI.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\bin\Debug\net6.0-windows\TicTacToeAgainstAI.pdb
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.Form1.resources
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.csproj.GenerateResource.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.AssemblyInfoInputs.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.AssemblyInfo.cs
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.csproj.CoreCompileInputs.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\refint\TicTacToeAgainstAI.dll
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.pdb
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\TicTacToeAgainstAI.genruntimeconfig.cache
+D:\Code Relate Stuff\Projects\2023 Projects\2023 C#\TicTacToeAgainstAI\TicTacToeAgainstAI\obj\Debug\net6.0-windows\ref\TicTacToeAgainstAI.dll
